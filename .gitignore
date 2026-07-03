@@ -1,0 +1,12 @@
+# Native simulation build artifacts
+firmware/test/native/motor_sim
+
+# PlatformIO
+firmware/.pio/
+
+# Python
+dashboard/__pycache__/
+dashboard/*.pyc
+
+# Dashboard run logs
+dashboard/logs/*.csv
